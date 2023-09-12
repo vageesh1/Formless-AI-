@@ -1,0 +1,241 @@
+User input,Provided
+Why do you need my date of birth?,No
+I'm not comfortable sharing my birthdate,No
+Can I skip providing my birthdate?,No
+Is my birthdate safe with you?,No
+Why is my birthdate necessary?,No
+Do I have to give you my birthdate?,No
+I don't see why you need my birthdate.,No
+What happens if I don't share my birthdate?,No
+Is my birthdate used for marketing purposes?,No
+Can you provide services without knowing my birthdate?,No
+Are you going to share my birthdate with third parties?,No
+What's the benefit of sharing my birthdate?,No
+I'm not sure about sharing personal information.,No
+Why does my birthdate matter to you?,No
+Can I provide a fake birthdate?,No
+I'm worried about identity theft. Can I skip it?,No
+I've heard about data breaches. Is it safe?,No
+Can I just tell you my birth month and day?,No
+I'm uncomfortable with sharing such data.,No
+Are you using my birthdate to verify my identity?,No
+"My date of birth is August 15, 1987.",Yes
+"Sure, I was born on March 22, 1995.",Yes
+"I'm comfortable sharing my birthdate: November 5, 1982.",Yes
+"You can have my birthdate: September 10, 2000.",Yes
+"My date of birth is February 8, 1979.",Yes
+"Providing my birthdate: July 12, 1991.",Yes
+"I was born on May 3, 1988.",Yes
+"Sure thing, it's December 18, 1973.",Yes
+"I'm okay with sharing my birthdate: January 25, 2002.",Yes
+"No problem, my date of birth is June 7, 1996.",Yes
+"You can use my birthdate: April 14, 1985.",Yes
+"Happy to share, I was born on October 30, 1999.",Yes
+"I'm fine with it, my birthdate is July 9, 1970.",Yes
+"Providing my birthdate: March 17, 1984.",Yes
+"Okay, my date of birth is September 23, 1993.",Yes
+"Sure, it's February 4, 1989.",Yes
+"No issues, I was born on November 8, 1978.",Yes
+"You can have my birthdate: January 15, 1998.",Yes
+"My birthdate is May 19, 2003.",Yes
+"I'm comfortable sharing my birthdate: August 28, 1992.",Yes
+Why do you need my name?,No
+I'm not comfortable sharing my name.,No
+Can I skip providing my name?,No
+Is my name safe with you?,No
+What's the benefit of sharing my name?,No
+Do I have to give you my name?,No
+I don't see why you need my name.,No
+What happens if I don't share my name?,No
+Is my name used for marketing purposes?,No
+Can you provide services without knowing my name?,No
+Are you going to share my name with third parties?,No
+What's the benefit of sharing my name?,No
+I'm not sure about sharing personal information.,No
+Why does my name matter to you?,No
+Can I use a nickname instead?,No
+I'm worried about privacy. Can I skip it?,No
+Is my name going to be visible to others?,No
+Can I just provide my first name?,No
+I'm uncomfortable with sharing my name.,No
+Are you using my name to verify my identity?,No
+Why do you need my email?,No
+I'm not comfortable sharing my email.,No
+Can I skip providing my email?,No
+Is my email safe with you?,No
+What's the benefit of sharing my email?,No
+Do I have to give you my email?,No
+I don't see why you need my email.,No
+What happens if I don't share my email?,No
+Is my email used for marketing purposes?,No
+Can you provide services without knowing my email,No
+Are you going to share my email with third parties?,No
+What's the benefit of sharing my email?,No
+I'm not sure about sharing personal information.,No
+Why does my email matter to you?,No
+Can I use a different email?,No
+I'm worried about spam. Can I skip it?,No
+Is my email going to be shared publicly?,No
+Can I just provide a temporary email?,No
+I'm uncomfortable with sharing my email.,No
+Are you using my email to verify my identity?,No
+My email address is john.doe@example.com.,Yes
+"Sure, you can reach me at emily.smith@emailprovider.com.",Yes
+I'm comfortable sharing my email: sam.jones@example.org.,Yes
+You can contact me through jessica.brown@emailservice.net.,Yes
+My email is alex.wilson@example.net.,Yes
+Providing my email: mike.johnson@example.com.,Yes
+I can be reached at chris.miller@emailprovider.net.,Yes
+"Sure thing, it's lisa.davis@example.org.",Yes
+I'm okay with sharing my email: sarah.white@example.net.,Yes
+"No problem, my email is robert.martin@example.com.",Yes
+You can use my email: laura.jones@example.org.,Yes
+"Happy to share, I can be contacted at andrew.hall@example.net.",Yes
+"I'm fine with it, my email is anna.smith@example.com.",Yes
+Providing my email: paul.johnson@example.org.,Yes
+"Okay, my email is michelle.robinson@example.net.",Yes
+"Sure, it's james.wilson@example.com.",Yes
+"No issues, my email is jennifer.miller@example.org.",Yes
+You can have my email: william.jones@example.net.,Yes
+My email is emma.smith@example.com.,Yes
+I'm comfortable sharing my email: olivia.davis@example.org.,Yes
+Why do you need my phone number?,No
+I'm not comfortable sharing my phone number.,No
+Can I skip providing my phone number?,No
+Is my phone number safe with you?,No
+What's the benefit of sharing my phone number?,No
+Do I have to give you my phone number?,No
+I don't see why you need my phone number.,No
+What happens if I don't share my phone number?,No
+Is my phone number used for marketing purposes?,No
+Can you provide services without knowing my phone number?,No
+Are you going to share my phone number with third parties?,No
+What's the benefit of sharing my phone number?,No
+I'm not sure about sharing personal information.,No
+Why does my phone number matter to you?,No
+Can I use a different phone number?,No
+I'm worried about privacy. Can I skip it?,No
+Is my phone number going to be shared publicly?,No
+Can I just provide a temporary phone number?,No
+I'm uncomfortable with sharing my phone number.,No
+Are you using my phone number to verify my identity?,No
+My phone number is (123) 456-7890.,Yes
+"Sure, you can reach me at +1 (987) 654-3210.",Yes
+I'm comfortable sharing my phone number: (555) 123-4567.,Yes
+You can contact me at (789) 456-1230.,Yes
+My phone number is +44 20 1234 5678.,Yes
+Providing my phone number: (321) 654-9870.,Yes
+I can be reached at +49 123 456789.,Yes
+"Sure thing, it's (210) 987-6543.",Yes
+I'm okay with sharing my phone number: +33 1 23 45 67 89.,Yes
+"No problem, my phone number is (888) 555-1234.",Yes
+You can use my phone number: (555) 678-9012.,Yes
+"Happy to share, I can be contacted at +61 2 9876 5432.",Yes
+"I'm fine with it, my phone number is (444) 555-6666.",Yes
+Providing my phone number: +81 3 1234 5678.,Yes
+"Okay, my phone number is (999) 888-7777.",Yes
+"Sure, it's (111) 222-3333.",Yes
+"No issues, my phone number is +32 9 876 5432.",Yes
+You can have my phone number: +39 02 1234 5678.,Yes
+My phone number is (666) 777-8888.,Yes
+I'm comfortable sharing my phone number: (555) 444-3333.,Yes
+Why do you need my address?,No
+I'm not comfortable sharing my address.,No
+Can I skip providing my address?,No
+Is my address safe with you?,No
+What's the benefit of sharing my address?,No
+Do I have to give you my address?,No
+I don't see why you need my address.,No
+What happens if I don't share my address?,No
+Is my address used for marketing purposes?,No
+Can you provide services without knowing my address?,No
+Are you going to share my address with third parties?,No
+What's the benefit of sharing my address?,No
+I'm not sure about sharing personal information.,No
+Why does my address matter to you?,No
+Can I use a different address?,No
+I'm worried about privacy. Can I skip it?,No
+Is my address going to be shared publicly?,No
+Can I just provide a work address?,No
+I'm uncomfortable with sharing my address.,No
+Are you using my address to verify my identity?,No
+"My address is 123 Main Street, Cityville, State, ZIP Code.",Yes
+"Sure, you can find me at 456 Elm Avenue, Townsville, State, Postal Code.",Yes
+"I'm comfortable sharing my address: 789 Oak Lane, Villageton, State, ZIP.",Yes
+"You can contact me at 987 Maple Drive, Hamletown, State, Postal Code.",Yes
+"My address is 567 Pine Street, Boroughburg, State, ZIP.",Yes
+"Providing my address: 654 Cedar Road, Villageville, State, Postal Code.",Yes
+"I can be reached at 321 Birch Lane, Countryside, State, ZIP.",Yes
+"Sure thing, it's 888 Willow Avenue, Urbanville, State, Postal Code.",Yes
+"I'm okay with sharing my address: 555 Spruce Road, Metrotown, State, ZIP.",Yes
+"No problem, my address is 111 Chestnut Street, Suburbia, State, Postal Code.",Yes
+"You can use my address: 222 Juniper Lane, Outskirtsville, State, ZIP.",Yes
+"Happy to share, I can be contacted at 444 Fir Road, Districtville, State, Postal Code.",Yes
+"I'm fine with it, my address is 777 Redwood Avenue, Farmland, State, ZIP.",Yes
+"Providing my address: 666 Walnut Street, Nearcity, State, Postal Code.",Yes
+"Okay, my address is 999 Pinecone Lane, Villageton, State, ZIP.",Yes
+"Sure, it's 1234 Mulberry Road, Urbanville, State, Postal Code.",Yes
+"No issues, my address is 5678 Oak Avenue, Hamletown, State, ZIP.",Yes
+"You can have my address: 4321 Elm Street, Countryside, State, Postal Code.",Yes
+"My address is 9876 Cedar Lane, Townsville, State, ZIP.",Yes
+"I'm comfortable sharing my address: 6543 Birch Road, Cityville, State, Postal Code.",Yes
+Why do you need my education information?,No
+I'm not comfortable sharing my education information.,No
+Can I skip providing my education information?,No
+Is my education information safe with you?,No
+What's the benefit of sharing my education information?,No
+Do I have to give you my education information?,No
+I don't see why you need my education information.,No
+What happens if I don't share my education information?,No
+Is my education information used for marketing purposes?,No
+Can you provide services without knowing my education information?,No
+Are you going to share my education information with third parties?,No
+What's the benefit of sharing my education information?,No
+I'm not sure about sharing personal information.,No
+Why does my education information matter to you?,No
+Can I provide incomplete education information?,No
+I'm worried about my education privacy. Can I skip sharing it?,No
+Is my education information going to be shared publicly?,No
+Can I provide my past education instead of current?,No
+I'm uncomfortable with sharing my education details.,No
+Are you using my education information for verification purposes?,No
+My education details include a Bachelor's degree in Computer Science from XYZ University.,Yes
+"Sure, I completed my Master's in Business Administration from ABC College.",Yes
+I'm comfortable sharing my education: I graduated with a Bachelor's in Engineering from DEF Institute.,Yes
+You can find that I hold a Ph.D. in Physics from GHI University.,Yes
+My education information includes a diploma in Graphic Design from JKL School of Arts.,Yes
+Providing my education: I earned an Associate's degree in Nursing from MNO College.,Yes
+I can be reached at PQR University where I pursued a Bachelor's in Economics.,Yes
+"Sure thing, it's LMN Institute where I completed my Master's in Psychology.",Yes
+I'm okay with sharing my education: I graduated with a Bachelor's in History from RST College.,Yes
+"No problem, my education information includes a certificate in Culinary Arts from UVW School.",Yes
+You can use my education: I studied at XYZ Academy and got a diploma in Music.,Yes
+"Happy to share, I can be contacted at DEF Institute where I pursued a Bachelor's in Sociology.",Yes
+"I'm fine with it, my education details include a Master's in Literature from MNO University.",Yes
+Providing my education: I hold a degree in Chemistry from PQR College.,Yes
+"Okay, my education information includes a diploma in Fashion Design from GHI School of Arts.",Yes
+"Sure, it's JKL University where I completed my Master's in Mathematics.",Yes
+"No issues, my education includes a Bachelor's degree in Political Science from RST University.",Yes
+You can have my education: I studied at ABC Institute and got a certificate in Programming.,Yes
+My education information includes a Ph.D. in Biology from UVW University.,Yes
+I'm comfortable sharing my education: I pursued a Master's in Engineering at LMN College.,Yes
+My name is Emily.,Yes
+You can call me Alex.,Yes
+I'm John.,Yes
+"Hi, I'm Sarah.",Yes
+The name's Michael.,Yes
+I go by Jessica.,Yes
+"I'm David, nice to meet you.",Yes
+Call me Olivia.,Yes
+"Hey there, I'm Daniel.",Yes
+"I'm Rachel, how can you assist me?",Yes
+"Hi, my name is Ethan.",Yes
+You can call me Lily.,Yes
+"I'm Chris, what can you do for me?",Yes
+"I'm Mia, and I have a question.",Yes
+"The name's William, but you can call me Will.",Yes
+"I go by Ava, nice to chat with you.",Yes
+"I'm Jackson, and I could use some help.",Yes
+"Hi, I'm Sophia. What's your specialty?",Yes
+"You can call me Liam, and I need some information.",Yes
+"I'm Emma, and I'm curious about something.",Yes
