@@ -19,7 +19,7 @@ My approach for making a miniature replica of a formless AI is a form that can i
 - I used LLAMAv2 7B 4-bit quantization version for the fine-tuning purposes
 - PEFT and TRL were the helper libraries for training of our LLM
 - I trained it for 80 epochs, which took around 30 minutes for training, and the lowest loss was recorded for 0.47
-- Here is the Model link-![Alt Text](https://huggingface.co/Vageesh1/convincing_LLM)
+- Here is the Model link-![Model Link](https://huggingface.co/Vageesh1/convincing_LLM)
 
 ## Example Usage- 
 - Load the ChatInterface File in a Google Colab notebook and set runtime to T4 GPU
@@ -27,7 +27,6 @@ My approach for making a miniature replica of a formless AI is a form that can i
 - Here are some screenshots to show the final results.
 - Chat Function
   ![Alt Text](https://github.com/vageesh1/Formless-AI-/blob/main/Sample%20Chat%20ScreenShot.png)
-- Stored File
   ![Alt Text](https://github.com/vageesh1/Formless-AI-/blob/main/Sample%20Saved%20File%20ScreenShot.png)
 
 
